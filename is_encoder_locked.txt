@@ -1,1 +1,1 @@
-{"state":"True","reason":"Gimme mode"}
+{"state":"False","reason":"Is open."}
