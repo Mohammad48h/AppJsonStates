@@ -1,6 +1,6 @@
 {
   "source_code": "print('CRITICAL UPDATE: Security patch applied')",
-  "version":1.0.1,
+  "version": 2,
   "new_things": "CRITICAL SECURITY UPDATE - Please update immediately",
   "is_force": true
 }
